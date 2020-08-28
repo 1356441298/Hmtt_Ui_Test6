@@ -1,0 +1,51 @@
+[ {
+  "uid" : "2ad6027411bf7c6e",
+  "name" : "test_pub_ari[HZLL_TESTHH_{}-嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻-人工智能-新增文章成功]",
+  "time" : {
+    "start" : 1598532531878,
+    "stop" : 1598532536912,
+    "duration" : 5034
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "caf82d2e101928a5",
+  "name" : "test_begin",
+  "time" : {
+    "start" : 1598532513676,
+    "stop" : 1598532513676,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cdf6ff570f189402",
+  "name" : "test_pub_ari[HZLL_TEST_{}-哈哈哈哈哈哈哈哈哈-软件测试-新增文章成功]",
+  "time" : {
+    "start" : 1598532522185,
+    "stop" : 1598532531276,
+    "duration" : 9091
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "557c86b1d413570d",
+  "name" : "test_mp_login",
+  "time" : {
+    "start" : 1598532520559,
+    "stop" : 1598532521554,
+    "duration" : 995
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "c9f250edb4b6acaa",
+  "name" : "test_end",
+  "time" : {
+    "start" : 1598532536921,
+    "stop" : 1598532543055,
+    "duration" : 6134
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

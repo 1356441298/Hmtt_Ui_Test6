@@ -1,0 +1,70 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_begin",
+    "uid" : "caf82d2e101928a5",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1598532513676,
+      "stop" : 1598532513676,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_mp_login",
+    "uid" : "557c86b1d413570d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1598532520559,
+      "stop" : 1598532521554,
+      "duration" : 995
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_pub_ari[HZLL_TEST_{}-哈哈哈哈哈哈哈哈哈-软件测试-新增文章成功]",
+    "uid" : "cdf6ff570f189402",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1598532522185,
+      "stop" : 1598532531276,
+      "duration" : 9091
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'软件测试'", "'哈哈哈哈哈哈哈哈哈'", "'HZLL_TEST_{}'", "'新增文章成功'" ]
+  }, {
+    "name" : "test_pub_ari[HZLL_TESTHH_{}-嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻-人工智能-新增文章成功]",
+    "uid" : "2ad6027411bf7c6e",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1598532531878,
+      "stop" : 1598532536912,
+      "duration" : 5034
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'人工智能'", "'嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻'", "'HZLL_TESTHH_{}'", "'新增文章成功'" ]
+  }, {
+    "name" : "test_end",
+    "uid" : "c9f250edb4b6acaa",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1598532536921,
+      "stop" : 1598532543055,
+      "duration" : 6134
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}

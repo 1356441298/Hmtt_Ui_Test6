@@ -1,0 +1,14 @@
+{
+  "test_data01": {
+    "ari_title": "HZLL_TEST_{}",
+    "ari_context": "哈哈哈哈哈哈哈哈哈",
+    "ari_channel": "软件测试",
+    "expect": "新增文章成功"
+  },
+  "test_data02": {
+    "ari_title": "HZLL_TESTHH_{}",
+    "ari_context": "嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻",
+    "ari_channel": "人工智能",
+    "expect": "新增文章成功"
+  }
+}

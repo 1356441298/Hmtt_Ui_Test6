@@ -1,0 +1,145 @@
+{
+  "uid" : "52b4bb6ab14afcd5",
+  "name" : "test_pub_ari[HZLL_TESTHH_{}-嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻-人工智能-新增文章成功]",
+  "fullName" : "case.mp.test_pub_article.TestPubArticle#test_pub_ari",
+  "historyId" : "acd5ad0a7a1d2579ca04ae5a54972645",
+  "time" : {
+    "start" : 1598531850497,
+    "stop" : 1598531855786,
+    "duration" : 5289
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_method",
+    "time" : {
+      "start" : 1598531850110,
+      "stop" : 1598531850495,
+      "duration" : 385
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1598531839939,
+      "stop" : 1598531839939,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f53f40ab16b727f6",
+      "name" : "发布文章",
+      "source" : "f53f40ab16b727f6.png",
+      "type" : "image/png",
+      "size" : 74469
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_method::0",
+    "time" : {
+      "start" : 1598531855796,
+      "stop" : 1598531855796,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1598531855797,
+      "stop" : 1598531855797,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(order=3)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case.mp"
+  }, {
+    "name" : "suite",
+    "value" : "test_pub_article"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestPubArticle"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-AMM40C4B"
+  }, {
+    "name" : "thread",
+    "value" : "38924-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.mp.test_pub_article"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "ari_channel",
+    "value" : "'人工智能'"
+  }, {
+    "name" : "ari_context",
+    "value" : "'嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻'"
+  }, {
+    "name" : "ari_title",
+    "value" : "'HZLL_TESTHH_{}'"
+  }, {
+    "name" : "expect",
+    "value" : "'新增文章成功'"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "run(order=3)" ]
+  },
+  "source" : "52b4bb6ab14afcd5.json",
+  "parameterValues" : [ "'人工智能'", "'嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻'", "'HZLL_TESTHH_{}'", "'新增文章成功'" ]
+}

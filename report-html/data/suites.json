@@ -1,0 +1,106 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "case.mp",
+    "children" : [ {
+      "name" : "test_begin",
+      "children" : [ {
+        "name" : "TestBegin",
+        "children" : [ {
+          "name" : "test_begin",
+          "uid" : "caf82d2e101928a5",
+          "parentUid" : "3c7444421aa48d967fd98d9d2953d445",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598532513676,
+            "stop" : 1598532513676,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "3c7444421aa48d967fd98d9d2953d445"
+      } ],
+      "uid" : "5b3bf97fa043c3daa3460017b03b53db"
+    }, {
+      "name" : "test_mp_login",
+      "children" : [ {
+        "name" : "TestMpLogin",
+        "children" : [ {
+          "name" : "test_mp_login",
+          "uid" : "557c86b1d413570d",
+          "parentUid" : "5268a13642b16d5069937046a2d4caa2",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598532520559,
+            "stop" : 1598532521554,
+            "duration" : 995
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "5268a13642b16d5069937046a2d4caa2"
+      } ],
+      "uid" : "6b60fc946431692c75234dc30a522d97"
+    }, {
+      "name" : "test_pub_article",
+      "children" : [ {
+        "name" : "TestPubArticle",
+        "children" : [ {
+          "name" : "test_pub_ari[HZLL_TEST_{}-哈哈哈哈哈哈哈哈哈-软件测试-新增文章成功]",
+          "uid" : "cdf6ff570f189402",
+          "parentUid" : "7d2953435733c9f56f4849f0324df6dd",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598532522185,
+            "stop" : 1598532531276,
+            "duration" : 9091
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'软件测试'", "'哈哈哈哈哈哈哈哈哈'", "'HZLL_TEST_{}'", "'新增文章成功'" ]
+        }, {
+          "name" : "test_pub_ari[HZLL_TESTHH_{}-嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻-人工智能-新增文章成功]",
+          "uid" : "2ad6027411bf7c6e",
+          "parentUid" : "7d2953435733c9f56f4849f0324df6dd",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598532531878,
+            "stop" : 1598532536912,
+            "duration" : 5034
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "'人工智能'", "'嘻嘻嘻嘻嘻嘻嘻嘻嘻嘻'", "'HZLL_TESTHH_{}'", "'新增文章成功'" ]
+        } ],
+        "uid" : "7d2953435733c9f56f4849f0324df6dd"
+      } ],
+      "uid" : "f2ead458077cebf698ad037b74a73535"
+    }, {
+      "name" : "test_end",
+      "children" : [ {
+        "name" : "TestEnd",
+        "children" : [ {
+          "name" : "test_end",
+          "uid" : "c9f250edb4b6acaa",
+          "parentUid" : "f7918d47dc6a7a0e6a3c29baa36cc519",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598532536921,
+            "stop" : 1598532543055,
+            "duration" : 6134
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f7918d47dc6a7a0e6a3c29baa36cc519"
+      } ],
+      "uid" : "8c16a6158e4ca1187e1ffb4035fedc9a"
+    } ],
+    "uid" : "1ce536a0a895f6300c151295e589a3fd"
+  } ]
+}

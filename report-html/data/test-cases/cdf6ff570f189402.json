@@ -1,0 +1,174 @@
+{
+  "uid" : "cdf6ff570f189402",
+  "name" : "test_pub_ari[HZLL_TEST_{}-哈哈哈哈哈哈哈哈哈-软件测试-新增文章成功]",
+  "fullName" : "case.mp.test_pub_article.TestPubArticle#test_pub_ari",
+  "historyId" : "785f8f9777ba35f505f0797aacc0659c",
+  "time" : {
+    "start" : 1598532522185,
+    "stop" : 1598532531276,
+    "duration" : 9091
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1598532521565,
+      "stop" : 1598532521565,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "_Class__pytest_setup_method",
+    "time" : {
+      "start" : 1598532521565,
+      "stop" : 1598532522183,
+      "duration" : 618
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5efb1fd2c003e1b5",
+      "name" : "发布文章",
+      "source" : "5efb1fd2c003e1b5.png",
+      "type" : "image/png",
+      "size" : 73362
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1598532536918,
+      "stop" : 1598532536918,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "_Class__pytest_setup_method::0",
+    "time" : {
+      "start" : 1598532531281,
+      "stop" : 1598532531281,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "tag",
+    "value" : "run(order=3)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case.mp"
+  }, {
+    "name" : "suite",
+    "value" : "test_pub_article"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestPubArticle"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-AMM40C4B"
+  }, {
+    "name" : "thread",
+    "value" : "36092-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.mp.test_pub_article"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "ari_channel",
+    "value" : "'软件测试'"
+  }, {
+    "name" : "ari_context",
+    "value" : "'哈哈哈哈哈哈哈哈哈'"
+  }, {
+    "name" : "ari_title",
+    "value" : "'HZLL_TEST_{}'"
+  }, {
+    "name" : "expect",
+    "value" : "'新增文章成功'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ {
+      "uid" : "a4d2d34df097fab7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598531841173,
+        "stop" : 1598531850104,
+        "duration" : 8931
+      }
+    }, {
+      "uid" : "efc24d595f14833d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598529638976,
+        "stop" : 1598529648388,
+        "duration" : 9412
+      }
+    }, {
+      "uid" : "7b70390514457440",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598520076835,
+        "stop" : 1598520086056,
+        "duration" : 9221
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "run(order=3)" ]
+  },
+  "source" : "cdf6ff570f189402.json",
+  "parameterValues" : [ "'软件测试'", "'哈哈哈哈哈哈哈哈哈'", "'HZLL_TEST_{}'", "'新增文章成功'" ]
+}
